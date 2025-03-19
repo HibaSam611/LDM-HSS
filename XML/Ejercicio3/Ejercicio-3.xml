@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Hiba Samraoui Samraoui]
+Curso: [Dam1]
+Fecha: [18/03/2025]
+Ejercicio: [Ejercicio 3]
+-->
+<libros>
+    <libro titulo="Tus zonas erroneas" autor=" Wayne Dyer
+" año="1995" />
+    <libro titulo="El monje que vendio su ferrari" autor=" Robin S. Sharma
+" año="1999" />
+    <libro titulo="El señor de los anillos" autor="J.R.R. Tolkien" año="1954" />
+</libros>

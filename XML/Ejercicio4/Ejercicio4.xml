@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Hiba Samraoui Samraoui
+Curso: Dam1
+Fecha: 19/03/2025
+Ejercicio: Ejercicio 4
+-->
+<empleados>
+    <!-- Inicio de la lista de empleados -->
+    <empleado>
+        <nombre>Ana</nombre>
+        <apellido>García</apellido>
+        <edad>30</edad>
+        <departamento>Ventas</departamento>
+        <cargo>Ejecutivo de ventas</cargo>
+    </empleado>
+    <empleado>
+        <nombre>Luis</nombre>
+        <apellido>Rodríguez</apellido>
+        <edad>45</edad>
+        <departamento>Finanzas</departamento>
+        <cargo>Analista financiero</cargo>
+    </empleado>
+    <empleado>
+        <nombre>María</nombre>
+        <apellido>López</apellido>
+        <edad>28</edad>
+        <departamento>Marketing</departamento>
+        <cargo>Especialista en redes sociales</cargo>
+    </empleado>
+    <empleado>
+        <nombre>Pedro</nombre>
+        <apellido>Martínez</apellido>
+        <edad>35</edad>
+        <departamento>Recursos Humanos</departamento>
+        <cargo>Gerente de Recursos Humanos</cargo>
+    </empleado>
+    <empleado>
+        <nombre>Lucía</nombre>
+        <apellido>Fernández</apellido>
+        <edad>32</edad>
+        <departamento>IT</departamento>
+        <cargo>Desarrollador de software</cargo>
+    </empleado>
+    <!-- Fin de la lista de empleados -->
+</empleados>
